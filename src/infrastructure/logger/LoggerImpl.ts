@@ -13,5 +13,5 @@ const currentLogLevel = levelByEnv[currentEnv] ?? 'debug';
 
 export const logger = Logger.getInstance({
     currentLogLevel,
-    prefix: '[phrases-app]',
+    prefix: '[patients-app]',
   });
