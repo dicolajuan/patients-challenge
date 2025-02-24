@@ -10,6 +10,8 @@ This application allows users to:
 ✅ **Create new patients**  
 ✅ **Search for patients using a powerful fuzzy search**  
 ✅ **Simulate a paginated experience** for progressive patient data loading  
+✅ On **mobile devices**, patient cards include an **expand/collapse feature** to show more details dynamically.  
+✅ On **larger screens**, the UI takes advantage of the available space to display **more patient information at a glance**, improving usability.
 
 ---
 
